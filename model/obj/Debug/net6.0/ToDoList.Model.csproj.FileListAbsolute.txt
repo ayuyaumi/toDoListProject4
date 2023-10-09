@@ -1,0 +1,15 @@
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\bin\Debug\net6.0\ToDoList.Model.deps.json
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\bin\Debug\net6.0\ToDoList.Model.dll
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\bin\Debug\net6.0\ToDoList.Model.pdb
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\bin\Debug\net6.0\ToDoList.Entities.dll
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\bin\Debug\net6.0\ToDoList.Entities.pdb
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.csproj.AssemblyReference.cache
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.AssemblyInfoInputs.cache
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.AssemblyInfo.cs
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.csproj.CoreCompileInputs.cache
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.csproj.CopyComplete
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.dll
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\obj\Debug\net6.0\refint\ToDoList.Model.dll
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\obj\Debug\net6.0\ToDoList.Model.pdb
+C:\Users\siti.r.binti.yaumi\OneDrive - Avanade\azure\projects\serverless\src\model\obj\Debug\net6.0\ref\ToDoList.Model.dll
